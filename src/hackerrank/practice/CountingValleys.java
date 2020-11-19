@@ -2,10 +2,10 @@ package hackerrank.practice;
 
 
 // https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup&h_r=next-challenge&h_v=zen
-public class SalesByMatch {
+public class CountingValleys {
 
     public static void main(String[] args) {
-        countingValleys(12, "DDUUDDUDUUUD");
+        countingValleys(12, "UDUUUDUDDD");
     }
 
     // Complete the sockMerchant function below.
@@ -18,12 +18,11 @@ public class SalesByMatch {
 
         for (int i = 1;i< pathArray.length;i++) {
 
-            if (pathArray[i -1] == 'U' && pathArray[i] == 'D') {
-                if (level > 0) {
-                    result++;
-                }
-            }
             level += pathArray[i] == 'U' ? 1 : -1;
+
+            if (level == 0 && pathArray[i] == 'U') {
+                result++;
+            }
         }
         return result;
     }
