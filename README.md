@@ -12,6 +12,6 @@
 
 - Hash Tables: Ransom Note
     - [Link](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)
-    - [Code](src/hackerrank/RansomNote.java)
+    - [Code](src/hackerrank/practice/RansomNote.java)
   
 
