@@ -14,9 +14,12 @@
     - [Link](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)
     - [Code](src/hackerrank/practice/RansomNote.java)
   
-
 - Two Strings
     - [Link](https://www.hackerrank.com/challenges/two-strings/problem)
     - [Code](src/hackerrank/practice/TwoStrings.java)
+  
+- Frequency Queries
+    - [Link](https://www.hackerrank.com/challenges/frequency-queries/problem)
+    - [Code](src/hackerrank/practice/FrequencyQueries.java)
   
 
