@@ -29,4 +29,8 @@
 - Mark and Toys
     - [Link](https://www.hackerrank.com/challenges/mark-and-toys/problem)
     - [Code](src/hackerrank/practice/MarkAndToys.java)
+    
+- Sorting: Comparator
+    - [Link](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem)
+    - [Code](src/hackerrank/practice/SortingComparator.java)
 
