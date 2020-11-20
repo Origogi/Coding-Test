@@ -26,3 +26,7 @@
     - [Link](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem)
     - [Code](src/hackerrank/practice/BubbleSort.java)
   
+- Mark and Toys
+    - [Link](https://www.hackerrank.com/challenges/mark-and-toys/problem)
+    - [Code](src/hackerrank/practice/MarkAndToys.java)
+
