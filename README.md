@@ -38,3 +38,6 @@
     - [Link](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem)
     - [Code](src/hackerrank/practice/MakingAnagrams.java)
 
+- Alternating Characters
+    - [Link](https://www.hackerrank.com/challenges/alternating-characters/problem)
+    - [Code](src/hackerrank/practice/AlternatingCharacter.java)
