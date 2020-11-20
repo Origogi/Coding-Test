@@ -33,4 +33,8 @@
 - Sorting: Comparator
     - [Link](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem)
     - [Code](src/hackerrank/practice/SortingComparator.java)
+    
+- Strings: Making Anagrams
+    - [Link](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem)
+    - [Code](src/hackerrank/practice/MakingAnagrams.java)
 
