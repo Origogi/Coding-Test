@@ -21,5 +21,8 @@
 - Frequency Queries
     - [Link](https://www.hackerrank.com/challenges/frequency-queries/problem)
     - [Code](src/hackerrank/practice/FrequencyQueries.java)
+ 
+- Sorting: Bubble Sort
+    - [Link](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem)
+    - [Code](src/hackerrank/practice/BubbleSort.java)
   
-
