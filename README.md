@@ -40,7 +40,11 @@
 
 - Sherlock and the Valid String
     - [Link](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem)
-    - [Code](src/hackerrank/practice/SherlockAndTheValidString.java)
+    - [Code](src/hackerran
+    
+    
+    
+    k/practice/SherlockAndTheValidString.java)
 
 - Minimum Absolute Difference in an Array
     - [Link](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)
@@ -57,3 +61,7 @@
 - Max Min
     - [Link](https://www.hackerrank.com/challenges/angry-children/problem)
     - [Code](src/hackerrank/practice/MaxMin.java)
+    
+ - Pairs
+     - [Link](https://www.hackerrank.com/challenges/pairs/problem)
+     - [Code](src/hackerrank/practice/Pairs.java)
