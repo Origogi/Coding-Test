@@ -69,3 +69,7 @@
 - Minimum Time Required
     - [Link](https://www.hackerrank.com/challenges/minimum-time-required/problem)
     - [Code](src/hackerrank/practice/MinimumTimeRequired.java)
+    
+- Balanced Brackets
+    - [Link](https://www.hackerrank.com/challenges/balanced-brackets/problem)
+    - [Code](src/hackerrank/practice/BalancedBrackets.java)
