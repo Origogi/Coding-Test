@@ -81,3 +81,7 @@
 - Special String Again
     - [Link](https://www.hackerrank.com/challenges/special-palindrome-again/problem)
     - [Code](src/hackerrank/practice/SpecialStringAgain.java)
+    
+- Queues: A Tale of Two Stacks
+    - [Link](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem)
+    - [Code](src/hackerrank/practice/ATaleOfTwoStacks.java)
