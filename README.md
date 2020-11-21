@@ -62,6 +62,10 @@
     - [Link](https://www.hackerrank.com/challenges/angry-children/problem)
     - [Code](src/hackerrank/practice/MaxMin.java)
     
- - Pairs
-     - [Link](https://www.hackerrank.com/challenges/pairs/problem)
-     - [Code](src/hackerrank/practice/Pairs.java)
+- Hash Tables: Ice Cream Parlor
+    - [Link](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem)
+    - [Code](src/hackerrank/practice/IceCreamParlor.java)
+
+- Pairs
+    - [Link](https://www.hackerrank.com/challenges/pairs/problem)
+    - [Code](src/hackerrank/practice/Pairs.java)
