@@ -65,3 +65,7 @@
 - Pairs
     - [Link](https://www.hackerrank.com/challenges/pairs/problem)
     - [Code](src/hackerrank/practice/Pairs.java)
+    
+- Minimum Time Required
+    - [Link](https://www.hackerrank.com/challenges/minimum-time-required/problem)
+    - [Code](src/hackerrank/practice/MinimumTimeRequired.java)
