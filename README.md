@@ -53,3 +53,7 @@
  - Greedy Florist
      - [Link](https://www.hackerrank.com/challenges/greedy-florist/problem)
      - [Code](src/hackerrank/practice/GreedyFlorist.java)
+     
+- Max Min
+    - [Link](https://www.hackerrank.com/challenges/angry-children/problem)
+    - [Code](src/hackerrank/practice/MaxMin.java)
