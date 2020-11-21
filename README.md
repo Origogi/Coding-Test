@@ -43,5 +43,9 @@
     - [Code](src/hackerrank/practice/SherlockAndTheValidString.java)
 
 - Minimum Absolute Difference in an Array
-        - [Link](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)
-        - [Code](src/hackerrank/practice/MinimumAbsoluteDifferenceInAnArray.java)
+    - [Link](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)
+    - [Code](src/hackerrank/practice/MinimumAbsoluteDifferenceInAnArray.java)
+    
+- Luck Balance
+    - [Link](https://www.hackerrank.com/challenges/luck-balance/problem)
+    - [Code](src/hackerrank/practice/LuckBalance.java)
