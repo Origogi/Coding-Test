@@ -73,3 +73,7 @@
 - Balanced Brackets
     - [Link](https://www.hackerrank.com/challenges/balanced-brackets/problem)
     - [Code](src/hackerrank/practice/BalancedBrackets.java)
+    
+- Sherlock and Array
+    - [Link](https://www.hackerrank.com/challenges/sherlock-and-array/problem)
+    - [Code](src/hackerrank/practice/SherlockAndArray.java)
