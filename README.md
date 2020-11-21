@@ -69,3 +69,6 @@
     
 - [Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem)
     - [Code](src/hackerrank/practice/LargestRectangle.java)
+    
+- [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)
+    - [Code](src/hackerrank/practice/PickingNumbers.java)
