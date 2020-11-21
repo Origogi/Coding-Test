@@ -85,3 +85,7 @@
 - Queues: A Tale of Two Stacks
     - [Link](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem)
     - [Code](src/hackerrank/practice/ATaleOfTwoStacks.java)
+    
+- Largest Rectangle
+    - [Link](https://www.hackerrank.com/challenges/largest-rectangle/problem)
+    - [Code](src/hackerrank/practice/LargestRectangle.java)
