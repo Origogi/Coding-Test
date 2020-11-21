@@ -77,3 +77,7 @@
 - Sherlock and Array
     - [Link](https://www.hackerrank.com/challenges/sherlock-and-array/problem)
     - [Code](src/hackerrank/practice/SherlockAndArray.java)
+ 
+- Special String Again
+    - [Link](https://www.hackerrank.com/challenges/special-palindrome-again/problem)
+    - [Code](src/hackerrank/practice/SpecialStringAgain.java)
