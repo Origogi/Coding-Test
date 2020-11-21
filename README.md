@@ -49,3 +49,7 @@
 - Luck Balance
     - [Link](https://www.hackerrank.com/challenges/luck-balance/problem)
     - [Code](src/hackerrank/practice/LuckBalance.java)
+    
+ - Greedy Florist
+     - [Link](https://www.hackerrank.com/challenges/greedy-florist/problem)
+     - [Code](src/hackerrank/practice/GreedyFlorist.java)
