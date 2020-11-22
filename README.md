@@ -72,3 +72,6 @@
     
 - [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)
     - [Code](src/hackerrank/practice/PickingNumbers.java)
+
+- [Picking Numbers](https://www.hackerrank.com/challenges/diagonal-difference/problem)
+    - [Code](src/hackerrank/practice/DiagonalDifference.java)
