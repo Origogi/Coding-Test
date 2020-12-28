@@ -30,7 +30,17 @@
 
 - [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)
   - [Code](src/programmers/sort/Test3.java)
+  
+### 완전 탐색
 
+- [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
+  - [Code](src/programmers/binary_search/Test1.java)
+
+- [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
+  - [Code](src/programmers/binary_search/Test2.java)
+
+- [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
+  - [Code](src/programmers/binary_search/Test3.java)
   
 ## Backjoon Online Judge(BOJ)
 
