@@ -6,7 +6,7 @@
 
 ## Programmers
 
-### Hash
+### 해시
 
 - [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
   - [Code](src/programmers/hash/Test1.java)
@@ -18,6 +18,11 @@
   - [Code](src/programmers/hash/Test3.java)
 
 - [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
+  - [Code](src/programmers/hash/Test4.java)
+
+### 정렬
+
+- [k번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)
   - [Code](src/programmers/hash/Test4.java)
 
   
