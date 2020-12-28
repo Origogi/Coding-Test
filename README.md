@@ -23,7 +23,13 @@
 ### 정렬
 
 - [k번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)
-  - [Code](src/programmers/hash/Test4.java)
+  - [Code](src/programmers/sort/Test1.java)
+
+- [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
+  - [Code](src/programmers/sort/Test2.java)
+
+- [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)
+  - [Code](src/programmers/sort/Test3.java)
 
   
 ## Backjoon Online Judge(BOJ)
