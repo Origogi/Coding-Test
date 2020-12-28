@@ -1,4 +1,4 @@
-package programmers.hash;
+package programmers_temp.hash;
 
 //https://programmers.co.kr/learn/courses/30/lessons/42576
 

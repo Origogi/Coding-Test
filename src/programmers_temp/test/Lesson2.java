@@ -1,4 +1,4 @@
-package programmers.test;
+package programmers_temp.test;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

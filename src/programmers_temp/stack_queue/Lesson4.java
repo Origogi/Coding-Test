@@ -1,4 +1,4 @@
-package programmers.stack_queue;
+package programmers_temp.stack_queue;
 
 import java.util.*;
 //https://programmers.co.kr/learn/courses/30/lessons/42587

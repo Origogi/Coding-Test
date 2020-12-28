@@ -1,4 +1,4 @@
-package programmers.dfs_bfs;
+package programmers_temp.dfs_bfs;
 //https://programmers.co.kr/learn/courses/30/lessons/43165
 public class Lesson1 {
 

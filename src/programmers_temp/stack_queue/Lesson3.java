@@ -1,4 +1,4 @@
-package programmers.stack_queue;
+package programmers_temp.stack_queue;
 
 import java.util.*;
 import java.util.stream.IntStream;
