@@ -42,6 +42,18 @@
 - [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
   - [Code](src/programmers/binary_search/Test3.java)
   
+### 힙
+
+- [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
+  - [Code](src/programmers/heap/Test1.java)
+
+- [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
+  - [Code](src/programmers/heap/Test2.java)
+
+- [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
+  - [Code](src/programmers/heap/Test3.java)
+
+
 ## Backjoon Online Judge(BOJ)
 
 ## HackerRank
