@@ -53,7 +53,20 @@
 - [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
   - [Code](src/programmers/heap/Test3.java)
 
+### 깊이/너비 우선 탐색(DFS/BFS)
 
+- [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
+  - [Code](src/programmers/heap/Test1.java)
+
+- [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
+  - [Code](src/programmers/heap/Test2.java)
+
+- [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
+  - [Code](src/programmers/heap/Test3.java)
+
+- [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)
+  - [Code](src/programmers/dfs_bfs/Test4.java)
+  
 ## Backjoon Online Judge(BOJ)
 
 ## HackerRank
