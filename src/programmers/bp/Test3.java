@@ -1,4 +1,4 @@
-package programmers.binary_search;
+package programmers.bp;
 
 public class Test3 {
 

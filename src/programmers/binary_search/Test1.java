@@ -1,50 +1,38 @@
 package programmers.binary_search;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
 
 public class Test1 {
 
     public static void main(String[] args) {
-
-        new Test1().solution(null);
-
+        new Test1().solution(6, new int[]{7, 10});
     }
 
-    public int[] solution(int[] answers) {
+    public long solution(int n, int[] times) {
 
+        Arrays.sort(times);
+        long maxTime = (long)times[times.length-1]*n;
+        long minTime = 1;
 
-        int[][] patterns = {
-                {1, 2, 3, 4, 5},
-                {2, 1, 2, 3, 2, 4, 2, 5},
-                {3, 3, 1, 1, 2, 2, 4, 4, 5, 5}
-        };
+        long ans = Long.MAX_VALUE;
 
-        int[] score = {0,0,0};
+        long target = 0;
+        while (minTime <= maxTime) {
+            long count = 0;
+            target = (maxTime + minTime) /2;
+            for (int time : times) {
+                count += (target / time);
+            }
 
-        for (int i = 0; i < answers.length; i++) {
-
-            for (int j = 0; j < 3; j++) {
-                int[] pattern = patterns[j];
-                if (pattern[i % pattern.length] == answers[i]) {
-                    score[j]++;
-                }
+            if (count >= n) {
+                ans = Math.min(target, ans);
+                maxTime = target - 1;
+            } else {
+                minTime = target + 1;
             }
         }
 
-        int max = Arrays.stream(score).max().getAsInt();
 
-        List<Integer> ans = new ArrayList<>();
-
-        for (int i = 0;i< 3;i++) {
-            if (score[i] == max) {
-                ans.add(i +1);
-            }
-        }
-
-        Collections.sort(ans);
-        return ans.stream().mapToInt(a->a).toArray();
+        return target;
     }
 }

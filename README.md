@@ -34,13 +34,13 @@
 ### 완전 탐색
 
 - [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
-  - [Code](src/programmers/binary_search/Test1.java)
+  - [Code](src/programmers/bp/Test1.java)
 
 - [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
-  - [Code](src/programmers/binary_search/Test2.java)
+  - [Code](src/programmers/bp/Test2.java)
 
 - [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
-  - [Code](src/programmers/binary_search/Test3.java)
+  - [Code](src/programmers/bp/Test3.java)
   
 ### 힙
 
@@ -66,6 +66,20 @@
 
 - [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)
   - [Code](src/programmers/dfs_bfs/Test4.java)
+
+### 동적계획법(Dynamic Programming)
+
+- [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)
+  - [Code](src/programmers/dp/Test2.java)
+
+- [증굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
+  - [Code](src/programmers/dp/Test3.java)
+  
+### 이분탐색
+
+- [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43238)
+  - [Code](src/programmers/binary_search/Test1.java)
+  
   
 ## Backjoon Online Judge(BOJ)
 
