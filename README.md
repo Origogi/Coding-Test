@@ -79,7 +79,26 @@
 
 - [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43238)
   - [Code](src/programmers/binary_search/Test1.java)
+
+### 탐욕법(Greedy)
+
+- [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
+  - [Code](src/programmers/greedy/Test1.java)
   
+- [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
+  - [Code](src/programmers/greedy/Test2.java)
+  
+- [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
+  - [Code](src/programmers/greedy/Test3.java)
+
+- [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
+  - [Code](src/programmers/greedy/Test4.java)
+
+- [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)
+  - [Code](src/programmers/greedy/Test5.java)
+
+- [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)
+  - [Code](src/programmers/greedy/Test6.java)
   
 ## Backjoon Online Judge(BOJ)
 
