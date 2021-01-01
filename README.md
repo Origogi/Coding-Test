@@ -8,7 +8,25 @@
 
 - [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)
   - [Code](src/codility/Iterations/BinaryGap.java)
+  
+### 2. Arrays
 
+- [CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)
+  - [Code](src/codility/array/CyclicRotation.java)
+
+- [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/)
+  - [Code](src/codility/array/OddOccurrencesInArray.java)
+
+### 3. Time Complexity
+
+- [FrogJmp](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)
+  - [Code](src/codility/timecomplexity/FrogJmp.java)
+  
+- [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/)
+  - [Code](src/codility/timecomplexity/PermMissingElem.java)
+
+- [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/)
+  - [Code](src/codility/timecomplexity/TapeEquilibrium.java)
 ## Programmers
 
 ### 해시
