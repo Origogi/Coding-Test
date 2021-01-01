@@ -56,6 +56,26 @@
 
 - [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/)
   - [Code](src/codility/prefix_sum/CountDiv.java)
+  
+### 6. Sorting
+
+- [Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct/)
+  - [Code](src/codility/sort/Distinct.java)
+
+- [MaxProductOfThree](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/)
+  - [Code](src/codility/sort/MaxProductOfThree.java)
+
+- [NumberOfDiscIntersections](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/) 43/100
+  - [Code](src/codility/sort/NumberOfDiscIntersections.java)
+
+- [Triangle](https://app.codility.com/programmers/lessons/6-sorting/triangle/)
+  - [Code](src/codility/sort/Triangle.java)
+
+### 14. Binary search algorithm
+
+- [MinMaxDivision](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/min_max_division/)
+  - [Code](src/codility/binary_search/MinMaxDivision.java)
+
 
 ## Programmers
 
