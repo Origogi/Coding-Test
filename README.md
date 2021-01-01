@@ -43,6 +43,20 @@
   - [Code](src/codility/counting/PermCheck.java)
 
 
+### 5. Prefix Sums
+
+- [CountDiv](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/)
+  - [Code](src/codility/prefix_sum/CountDiv.java)
+
+- [GenomicRangeQuery](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/)
+  - [Code](src/codility/prefix_sum/GenomicRangeQuery.java)
+
+- [MinAvgTwoSlice](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/)
+  - [Code](src/codility/prefix_sum/CountDiv.java)
+
+- [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/)
+  - [Code](src/codility/prefix_sum/CountDiv.java)
+
 ## Programmers
 
 ### 해시
