@@ -27,6 +27,22 @@
 
 - [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/)
   - [Code](src/codility/timecomplexity/TapeEquilibrium.java)
+
+### 4. Counting Elements
+
+- [FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/)
+  - [Code](src/codility/counting/FrogRiverOne.java)
+
+- [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)
+  - [Code](src/codility/counting/MaxCounters.java)
+
+- [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/)
+  - [Code](src/codility/counting/MissingInteger.java)
+
+- [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/)
+  - [Code](src/codility/counting/PermCheck.java)
+
+
 ## Programmers
 
 ### 해시
