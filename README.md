@@ -89,6 +89,17 @@
 
 - [EquiLeader](https://app.codility.com/programmers/lessons/8-leader/equi_leader/)
   - [Code](src/codility/leader/EquiLeader.java)
+
+### 9. Maximum slice problem
+
+- [MaxDoubleSliceSum](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/)
+  - [Code](src/codility/slice/MaxDoubleSliceSum.java)
+
+- [MaxProfit](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/)
+  - [Code](src/codility/slice/MaxProfit.java)
+
+- [MaxSliceSum](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/)
+  - [Code](src/codility/slice/MaxSliceSum.java)
   
 ### 14. Binary search algorithm
 
