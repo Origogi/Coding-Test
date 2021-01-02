@@ -101,6 +101,17 @@
 - [MaxSliceSum](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/)
   - [Code](src/codility/slice/MaxSliceSum.java)
   
+### 10. Prime and composite numbers
+
+- [CountFactors](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/)
+  - [Code](src/codility/prime_composite/CountFactors.java)
+
+- [Flags](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/flags/)
+  - [Code](src/codility/prime_composite/Flags.java)
+
+- [MinPerimeterRectangle](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/)
+  - [Code](src/codility/prime_composite/MinPerimeterRectangle.java)
+  
 ### 14. Binary search algorithm
 
 - [MinMaxDivision](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/min_max_division/)
