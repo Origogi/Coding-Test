@@ -70,7 +70,26 @@
 
 - [Triangle](https://app.codility.com/programmers/lessons/6-sorting/triangle/)
   - [Code](src/codility/sort/Triangle.java)
+  
+### 7. Stacks and Queues
 
+- [Brackets](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/)
+  - [Code](src/codility/stack_queue/Brackets.java)
+
+- [Fish](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/)
+  - [Code](src/codility/stack_queue/Fish.java)
+
+- [Nesting](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/)
+  - [Code](src/codility/stack_queue/Nesting.java)
+  
+### 8. Leader
+
+- [Dominator](https://app.codility.com/programmers/lessons/8-leader/dominator/)
+  - [Code](src/codility/leader/Dominator.java)
+
+- [EquiLeader](https://app.codility.com/programmers/lessons/8-leader/equi_leader/)
+  - [Code](src/codility/leader/EquiLeader.java)
+  
 ### 14. Binary search algorithm
 
 - [MinMaxDivision](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/min_max_division/)
