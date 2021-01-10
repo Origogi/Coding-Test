@@ -7,8 +7,8 @@ fun solution(P: IntArray, S: IntArray): Int {
 
     var remainPeople = P.sum()
 
-    for (i in S.indices) {
-        remainPeople -= S[i]
+    for (s in S) {
+        remainPeople -= s
         ans++;
         if (remainPeople <=0) {
             break;
