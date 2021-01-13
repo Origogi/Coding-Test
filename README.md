@@ -309,3 +309,6 @@
 
 - [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
   - [Code](src/hackerrank/practice/MiniMaxSum.java)
+
+- [Encryption](https://www.hackerrank.com/challenges/encryption/problem)
+  - [Code](src/hackerrank/practice/Encryption.java)
