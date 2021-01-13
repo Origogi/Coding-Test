@@ -306,3 +306,6 @@
   
 - [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
      - [Code](src/hackerrank/practice/BreakingTheRecords.java)
+
+- [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
+  - [Code](src/hackerrank/practice/MiniMaxSum.java)
