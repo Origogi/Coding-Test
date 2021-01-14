@@ -315,3 +315,6 @@
 
 - [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
   - [Code](src/hackerrank/practice/BirthdayCakeCandles.java)
+
+- [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem)
+  - [Code](src/hackerrank/practice/BiggerIsGreater.java)

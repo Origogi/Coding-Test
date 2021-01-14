@@ -1,13 +1,12 @@
 package hackerrank.practice;
 
-import java.util.Arrays;
+import java.util.*;
 
 
 public class GreedyFlorist {
 
 
     public static void main(String[] args) {
-        getMinimumCost(2, new int[]{2,5,6});
     }
 
     // Complete the getMinimumCost function below.
