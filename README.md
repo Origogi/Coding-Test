@@ -318,3 +318,6 @@
 
 - [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem)
   - [Code](src/hackerrank/practice/BiggerIsGreater.java)
+
+- [Bigger is Greater](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
+  - [Code](src/hackerrank/practice/SubArrayDivision.java)
