@@ -312,3 +312,6 @@
 
 - [Encryption](https://www.hackerrank.com/challenges/encryption/problem)
   - [Code](src/hackerrank/practice/Encryption.java)
+
+- [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
+  - [Code](src/hackerrank/practice/BirthdayCakeCandles.java)

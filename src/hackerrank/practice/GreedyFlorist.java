@@ -5,6 +5,7 @@ import java.util.Arrays;
 
 public class GreedyFlorist {
 
+
     public static void main(String[] args) {
         getMinimumCost(2, new int[]{2,5,6});
     }
