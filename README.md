@@ -327,3 +327,6 @@
 
 - [Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation/problem)
   - [Code](src/hackerrank/practice/AbsolutePermutation.java)
+
+- [Absolute Permutation](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)
+  - [Code](src/hackerrank/practice/SherlockAndSquares.java)
