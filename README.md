@@ -324,3 +324,6 @@
 
 - [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)
   - [Code](src/hackerrank/practice/DrawingBook.java)
+
+- [Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation/problem)
+  - [Code](src/hackerrank/practice/AbsolutePermutation.java)
