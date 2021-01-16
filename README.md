@@ -321,3 +321,6 @@
 
 - [Bigger is Greater](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
   - [Code](src/hackerrank/practice/SubArrayDivision.java)
+
+- [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)
+  - [Code](src/hackerrank/practice/DrawingBook.java)
