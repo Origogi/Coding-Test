@@ -330,3 +330,6 @@
 
 - [Absolute Permutation](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)
   - [Code](src/hackerrank/practice/SherlockAndSquares.java)
+
+- [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
+  - [Code](src/hackerrank/practice/SaveThePrisoner.java)
