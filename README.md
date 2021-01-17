@@ -333,3 +333,9 @@
 
 - [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
   - [Code](src/hackerrank/practice/SaveThePrisoner.java)
+
+- [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem)
+  - [Code](src/hackerrank/practice/FlatlandSpaceStations.java)
+
+- [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem)
+  - [Code](src/hackerrank/practice/BeautifulTriplets.java)
