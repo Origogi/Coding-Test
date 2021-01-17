@@ -339,3 +339,9 @@
 
 - [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem)
   - [Code](src/hackerrank/practice/BeautifulTriplets.java)
+  
+- [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)
+  - [Code](src/hackerrank/practice/ModifiedKaprekarNumbers.java)
+  
+- [Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem)
+  - [Code](src/hackerrank/practice/StrangerCounter.java)
