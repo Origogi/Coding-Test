@@ -345,3 +345,6 @@
   
 - [Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem)
   - [Code](src/hackerrank/practice/StrangerCounter.java)
+
+- [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem)
+  - [Code](src/hackerrank/practice/AlmostSorted.java)
