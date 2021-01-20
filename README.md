@@ -348,3 +348,9 @@
 
 - [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem)
   - [Code](src/hackerrank/practice/AlmostSorted.java)
+  
+- [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem)
+  - [Code](src/hackerrank/practice/SuperReducedString.java)
+
+- [Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem)
+  - [Code](src/hackerrank/practice/BigSorting.java)
