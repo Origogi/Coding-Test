@@ -354,3 +354,9 @@
 
 - [Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem)
   - [Code](src/hackerrank/practice/BigSorting.java)
+  
+- [Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem)
+  - [Code](src/hackerrank/practice/BigSorting.java)
+
+- [Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem)
+  - [Code](src/hackerrank/practice/GridSearch.java)
