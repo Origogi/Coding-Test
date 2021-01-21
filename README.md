@@ -375,3 +375,6 @@
 
 - [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)
   - [Code](src/hackerrank/practice/CutTheSticks.java)
+
+- [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)
+  - [Code](src/hackerrank/practice/CavityMap.java)
