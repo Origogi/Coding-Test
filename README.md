@@ -363,3 +363,9 @@
 
 - [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)
   - [Code](src/hackerrank/practice/FindDigits.java)
+
+- [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem)
+  - [Code](src/hackerrank/practice/HackerRankInAString.java)
+
+- [Two Characters](https://www.hackerrank.com/challenges/two-characters/problem)
+  - [Code](src/hackerrank/practice/TwoCharacters.java)
