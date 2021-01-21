@@ -369,3 +369,9 @@
 
 - [Two Characters](https://www.hackerrank.com/challenges/two-characters/problem)
   - [Code](src/hackerrank/practice/TwoCharacters.java)
+
+- [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)
+  - [Code](src/hackerrank/practice/CaesarCipher.java)
+
+- [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)
+  - [Code](src/hackerrank/practice/CutTheSticks.java)
