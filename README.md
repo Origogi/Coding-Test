@@ -360,3 +360,6 @@
 
 - [Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem)
   - [Code](src/hackerrank/practice/GridSearch.java)
+
+- [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)
+  - [Code](src/hackerrank/practice/FindDigits.java)
