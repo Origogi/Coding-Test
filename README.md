@@ -378,3 +378,12 @@
 
 - [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)
   - [Code](src/hackerrank/practice/CavityMap.java)
+
+- [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)
+  - [Code](src/hackerrank/practice/ChocolateFeast.java)
+
+- [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)
+  - [Code](src/hackerrank/practice/EqualizeTheArray.java)
+
+- [3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem)
+  - [Code](src/hackerrank/practice/SurfaceArea.java)
