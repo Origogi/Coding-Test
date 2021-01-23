@@ -387,3 +387,21 @@
 
 - [3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem)
   - [Code](src/hackerrank/practice/SurfaceArea.java)
+  
+- [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)
+  - [Code](src/hackerrank/practice/LibraryFine.java)
+
+- [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)
+  - [Code](src/hackerrank/practice/MinimumDistances.java)
+  
+- [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem)
+  - [Code](src/hackerrank/practice/ACMICPCTeam.java)
+  
+- [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)
+  - [Code](src/hackerrank/practice/UtopianTree.java)
+
+- [Connected Cells in a Grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid/problem)
+  - [Code](src/hackerrank/practice/ConnectedCellsInGrid.java)
+
+- [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem)
+  - [Code](src/hackerrank/practice/MatrixLayerRotation.java)
