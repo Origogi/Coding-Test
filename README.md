@@ -405,3 +405,15 @@
 
 - [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem)
   - [Code](src/hackerrank/practice/MatrixLayerRotation.java)
+  
+- [Camel Case](https://www.hackerrank.com/challenges/camelcase/problem)
+  - [Code](src/hackerrank/practice/CamelCase.java)
+  
+- [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem)
+  - [Code](src/hackerrank/practice/HappyLadybugs.java)
+
+- [Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)
+  - [Code](src/hackerrank/practice/ServiceLane.java)
+
+- [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)
+  - [Code](src/hackerrank/practice/Panagrams.java)
