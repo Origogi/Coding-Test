@@ -417,3 +417,6 @@
 
 - [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)
   - [Code](src/hackerrank/practice/Panagrams.java)
+
+- [Pangrams](https://www.hackerrank.com/challenges/non-divisible-subset/problem)
+  - [Code](src/hackerrank/practice/NonDivisibleSubset.java)
