@@ -429,3 +429,6 @@
 
 - [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)
   - [Code](src/hackerrank/practice/ManasaAndStones.java)
+
+- [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)
+  - [Code](src/hackerrank/practice/LisasWorkbook.java)
