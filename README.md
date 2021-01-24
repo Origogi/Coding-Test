@@ -420,3 +420,12 @@
 
 - [Pangrams](https://www.hackerrank.com/challenges/non-divisible-subset/problem)
   - [Code](src/hackerrank/practice/NonDivisibleSubset.java)
+
+- [Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem)
+  - [Code](src/hackerrank/practice/FairRations.java)
+  
+- [Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem)
+  - [Code](src/hackerrank/practice/FairRations.java)
+
+- [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)
+  - [Code](src/hackerrank/practice/ManasaAndStones.java)
