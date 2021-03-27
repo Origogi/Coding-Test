@@ -432,3 +432,6 @@
 
 - [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)
   - [Code](src/hackerrank/practice/LisasWorkbook.java)
+
+- [Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem)
+  - [Code](src/hackerrank/practice/Gemstones.kt)
