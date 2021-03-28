@@ -434,4 +434,7 @@
   - [Code](src/hackerrank/practice/LisasWorkbook.java)
 
 - [Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem)
-  - [Code](src/hackerrank/practice/Gemstones.kt)
+  - [Code](src/hackerrank/practice/Gemstones.kt
+
+- [Anagram](https://www.hackerrank.com/challenges/anagram/problem)
+  - [Code](src/hackerrank/practice/Anagram.kt)
