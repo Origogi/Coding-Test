@@ -438,3 +438,6 @@
 
 - [Anagram](https://www.hackerrank.com/challenges/anagram/problem)
   - [Code](src/hackerrank/practice/Anagram.kt)
+
+- [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem)
+  - [Code](src/hackerrank/practice/GameofThrones.kt)
