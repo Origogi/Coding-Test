@@ -453,3 +453,9 @@
   
 - [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem)
   - [Code](src/hackerrank/practice/MissingNumbers.kt)
+
+- [String Construction](https://www.hackerrank.com/challenges/string-construction/problem)
+  - [Code](src/hackerrank/practice/StringConstruction.kt)
+
+- [Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich/problem)
+  - [Code](src/hackerrank/practice/HighestValuePalindrome.kt)
