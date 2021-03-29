@@ -440,4 +440,16 @@
   - [Code](src/hackerrank/practice/Anagram.kt)
 
 - [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem)
-  - [Code](src/hackerrank/practice/GameofThrones.kt)
+  - [Code](src/hackerrank/practice/GameofThrones.kt
+
+- [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem)
+  - [Code](src/hackerrank/practice/MakingAnagrams.kt)
+  
+- [Separated Numbers](https://www.hackerrank.com/challenges/separate-the-numbers/problem)
+  - [Code](src/hackerrank/practice/SeparatetheNumbers.kt)
+  
+- [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)
+  - [Code](src/hackerrank/practice/IceCreamParlor.kt)
+  
+- [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem)
+  - [Code](src/hackerrank/practice/MissingNumbers.kt)
