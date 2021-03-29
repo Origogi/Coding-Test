@@ -7,115 +7,115 @@
 ### 1. Iterations
 
 - [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)
-  - [Code](src/codility/Iterations/BinaryGap.java)
+  - [Code](src/codility/java/Iterations/BinaryGap.java)
   
 ### 2. Arrays
 
 - [CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)
-  - [Code](src/codility/array/CyclicRotation.java)
+  - [Code](src/codility/java/array/CyclicRotation.java)
 
 - [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/)
-  - [Code](src/codility/array/OddOccurrencesInArray.java)
+  - [Code](src/codility/java/array/OddOccurrencesInArray.java)
 
 ### 3. Time Complexity
 
 - [FrogJmp](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)
-  - [Code](src/codility/timecomplexity/FrogJmp.java)
+  - [Code](src/codility/java/timecomplexity/FrogJmp.java)
   
 - [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/)
-  - [Code](src/codility/timecomplexity/PermMissingElem.java)
+  - [Code](src/codility/java/timecomplexity/PermMissingElem.java)
 
 - [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/)
-  - [Code](src/codility/timecomplexity/TapeEquilibrium.java)
+  - [Code](src/codility/java/timecomplexity/TapeEquilibrium.java)
 
 ### 4. Counting Elements
 
 - [FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/)
-  - [Code](src/codility/counting/FrogRiverOne.java)
+  - [Code](src/codility/java/counting/FrogRiverOne.java)
 
 - [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)
-  - [Code](src/codility/counting/MaxCounters.java)
+  - [Code](src/codility/java/counting/MaxCounters.java)
 
 - [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/)
-  - [Code](src/codility/counting/MissingInteger.java)
+  - [Code](src/codility/java/counting/MissingInteger.java)
 
 - [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/)
-  - [Code](src/codility/counting/PermCheck.java)
+  - [Code](src/codility/java/counting/PermCheck.java)
 
 
 ### 5. Prefix Sums
 
 - [CountDiv](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/)
-  - [Code](src/codility/prefix_sum/CountDiv.java)
+  - [Code](src/codility/java/prefix_sum/CountDiv.java)
 
 - [GenomicRangeQuery](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/)
-  - [Code](src/codility/prefix_sum/GenomicRangeQuery.java)
+  - [Code](src/codility/java/prefix_sum/GenomicRangeQuery.java)
 
 - [MinAvgTwoSlice](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/)
-  - [Code](src/codility/prefix_sum/CountDiv.java)
+  - [Code](src/codility/java/prefix_sum/CountDiv.java)
 
 - [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/)
-  - [Code](src/codility/prefix_sum/CountDiv.java)
+  - [Code](src/codility/java/prefix_sum/CountDiv.java)
   
 ### 6. Sorting
 
 - [Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct/)
-  - [Code](src/codility/sort/Distinct.java)
+  - [Code](src/codility/java/sort/Distinct.java)
 
 - [MaxProductOfThree](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/)
-  - [Code](src/codility/sort/MaxProductOfThree.java)
+  - [Code](src/codility/java/sort/MaxProductOfThree.java)
 
 - [NumberOfDiscIntersections](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/) 43/100
-  - [Code](src/codility/sort/NumberOfDiscIntersections.java)
+  - [Code](src/codility/java/sort/NumberOfDiscIntersections.java)
 
 - [Triangle](https://app.codility.com/programmers/lessons/6-sorting/triangle/)
-  - [Code](src/codility/sort/Triangle.java)
+  - [Code](src/codility/java/sort/Triangle.java)
   
 ### 7. Stacks and Queues
 
 - [Brackets](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/)
-  - [Code](src/codility/stack_queue/Brackets.java)
+  - [Code](src/codility/java/stack_queue/Brackets.java)
 
 - [Fish](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/)
-  - [Code](src/codility/stack_queue/Fish.java)
+  - [Code](src/codility/java/stack_queue/Fish.java)
 
 - [Nesting](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/)
-  - [Code](src/codility/stack_queue/Nesting.java)
+  - [Code](src/codility/java/stack_queue/Nesting.java)
   
 ### 8. Leader
 
 - [Dominator](https://app.codility.com/programmers/lessons/8-leader/dominator/)
-  - [Code](src/codility/leader/Dominator.java)
+  - [Code](src/codility/java/leader/Dominator.java)
 
 - [EquiLeader](https://app.codility.com/programmers/lessons/8-leader/equi_leader/)
-  - [Code](src/codility/leader/EquiLeader.java)
+  - [Code](src/codility/java/leader/EquiLeader.java)
 
 ### 9. Maximum slice problem
 
 - [MaxDoubleSliceSum](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/)
-  - [Code](src/codility/slice/MaxDoubleSliceSum.java)
+  - [Code](src/codility/java/slice/MaxDoubleSliceSum.java)
 
 - [MaxProfit](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/)
-  - [Code](src/codility/slice/MaxProfit.java)
+  - [Code](src/codility/java/slice/MaxProfit.java)
 
 - [MaxSliceSum](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/)
-  - [Code](src/codility/slice/MaxSliceSum.java)
+  - [Code](src/codility/java/slice/MaxSliceSum.java)
   
 ### 10. Prime and composite numbers
 
 - [CountFactors](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/)
-  - [Code](src/codility/prime_composite/CountFactors.java)
+  - [Code](src/codility/java/prime_composite/CountFactors.java)
 
 - [Flags](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/flags/)
-  - [Code](src/codility/prime_composite/Flags.java)
+  - [Code](src/codility/java/prime_composite/Flags.java)
 
 - [MinPerimeterRectangle](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/)
-  - [Code](src/codility/prime_composite/MinPerimeterRectangle.java)
+  - [Code](src/codility/java/prime_composite/MinPerimeterRectangle.java)
   
 ### 14. Binary search algorithm
 
 - [MinMaxDivision](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/min_max_division/)
-  - [Code](src/codility/binary_search/MinMaxDivision.java)
+  - [Code](src/codility/java/binary_search/MinMaxDivision.java)
 
 
 ## Programmers
