@@ -17,7 +17,9 @@ class MinAvgTwoSlice {
             }
 
             val avg2 = getAvg(A[i - 1], A[i])
-            if (avg2 < lowSlice) {
+            if (avg2 <
+
+                    lowSlice) {
                 lowIndex = i - 1
                 lowSlice = avg2
             }
