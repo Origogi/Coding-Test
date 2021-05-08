@@ -1,7 +1,7 @@
 package codility.test
 
 fun main() {
-    Test4().solution(1,1,0)
+    print(Test4_2().solution(1,1,0))
 }
 
 class Test4 {
@@ -63,4 +63,48 @@ class Test4 {
         return target
     }
 
+}
+
+class Test4_2 {
+    fun solution(A: Int, B: Int, C: Int): String {
+        val sb = StringBuilder()
+
+        var buffer = arrayOf(' ', ' ')
+        val map = mapOf('a' to A, 'b' to B, 'c' to C).filter { it.value > 0 }.toMutableMap()
+
+        while (map.isNotEmpty()) {
+            val ch: Char = getNext(map, buffer)
+
+            map[ch]?.let {
+                if (it == 1) {
+                    map.remove(ch)
+                } else {
+                    map[ch] = it -1
+                }
+                sb.append(ch)
+                buffer[0] = buffer[1]
+                buffer[1] = ch
+            } ?: run {
+                map.clear()
+            }
+        }
+
+        return sb.toString()
+
+    }
+
+    private fun getNext(map: Map<Char, Int>, buffer: Array<Char>): Char {
+
+        val entry = map.map { it }.sortedByDescending { it.value }
+
+        return if (buffer[0] == entry[0].key && buffer[1] == entry[0].key) {
+            if (entry.size > 1) {
+                entry[1].key
+            } else {
+                ' '
+            }
+        } else {
+            entry[0].key
+        }
+    }
 }

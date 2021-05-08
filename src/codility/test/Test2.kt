@@ -1,33 +1,41 @@
-package codility.test
-
-data class Student(val id : Id, val name : String, val subscribedCourses: List<Course>)
-
-data class Course(val id : Id, val name: String, val isPaid : Boolean)
-
-typealias Id = Int
-
-
-interface Repository<T> {
-    fun get() : Iterable<T>
+fun main() {
+    solution(1, 10000, intArrayOf(0, 10000, 0))
 }
 
-class University(private val repository: Repository<Student>) {
-    fun getPaidCoursesWithTheNumberOfSubscribedStudent(coursesCount : Int) : Map<Course, Int> {
+fun solution(K: Int, M: Int, A: IntArray): Int {
+    // write your code in Kotlin
 
-        val map = mutableMapOf<Course, Int>()
+    var min = A.maxOrNull()?:0
+    var max = A.sum()
 
-        for (student in repository.get()) {
-            for ( course in student.subscribedCourses) {
-                if (course.isPaid) {
-                    val count = map.getOrDefault(course,0) + 1
-                    map.put(course, count)
-                }
+    var ans = 0
+
+    while (min <= max) {
+        var k = K - 1
+        var target = (min + max) / 2
+
+        var sum = 0
+
+        for (i in A.indices) {
+            if (A[i] > target) {
+                k = -1
+                break
+            }
+
+            if (sum + A[i] > target) {
+                sum = A[i]
+                k--
+            } else {
+                sum += A[i]
             }
         }
-        map.toList().sortedByDescending { it.second }.take(coursesCount).toMap()
-        return map
-    }
-}
 
-class Test2 {
+        if (k < 0) {
+            min = target + 1
+        } else {
+            max = target - 1
+            ans = target
+        }
+    }
+    return ans
 }
