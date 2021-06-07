@@ -459,3 +459,9 @@
 
 - [Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich/problem)
   - [Code](src/hackerrank/practice/HighestValuePalindrome.kt)
+
+- [Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge/problem)
+  - [Code](src/hackerrank/practice/GridChallenge.kt)
+
+- [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)
+  - [Code](src/hackerrank/practice/PlusMinus.kt)
