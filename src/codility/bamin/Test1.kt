@@ -1,8 +1,14 @@
 import java.lang.StringBuilder
 
+class Person( var name : String)
+
 fun main() {
 
     println(Test1().solution(3, 1, intArrayOf(2, 1, 1, 0, 1)))
+
+    Person("a").apply { this.name = "a" }
+    Person("a").also { it.name = "a" }
+
 }
 
 class Test1 {
@@ -13,7 +19,7 @@ class Test1 {
         var a = U
         var b = L
 
-        if (a +b > C.sum()) {
+        if (a +b != C.sum()) {
             return "IMPOSSIBLE"
         }
 
