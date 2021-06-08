@@ -474,3 +474,6 @@
   
 - [Grading Students](https://www.hackerrank.com/challenges/grading/problem)
   - [Code](src/hackerrank/practice/GradingStudents.kt)
+
+- [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem)
+  - [Code](src/hackerrank/practice/TheLoveLetterMystery.kt)
