@@ -471,3 +471,6 @@
 
 - [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem)
   - [Code](src/hackerrank/practice/RunningTimeOfAlgorithms.kt)
+  
+- [Grading Students](https://www.hackerrank.com/challenges/grading/problem)
+  - [Code](src/hackerrank/practice/GradingStudents.kt)
