@@ -465,3 +465,6 @@
 
 - [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)
   - [Code](src/hackerrank/practice/PlusMinus.kt)
+  
+- [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)
+  - [Code](src/hackerrank/practice/JumpingOnTheClouds.kt)
