@@ -468,3 +468,6 @@
   
 - [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)
   - [Code](src/hackerrank/practice/JumpingOnTheClouds.kt)
+
+- [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem)
+  - [Code](src/hackerrank/practice/RunningTimeOfAlgorithms.kt)
