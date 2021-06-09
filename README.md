@@ -483,3 +483,6 @@
 
 - [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)
   - [Code](src/hackerrank/practice/AppleAndOrange.kt)
+
+- [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)
+  - [Code](src/hackerrank/practice/MigratoryBirds.kt)
