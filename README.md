@@ -480,3 +480,6 @@
 
 - [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
   - [Code](src/hackerrank/practice/DivisibleSumPairs.kt)
+
+- [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)
+  - [Code](src/hackerrank/practice/AppleAndOrange.kt)
