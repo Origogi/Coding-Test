@@ -477,3 +477,6 @@
 
 - [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem)
   - [Code](src/hackerrank/practice/TheLoveLetterMystery.kt)
+
+- [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
+  - [Code](src/hackerrank/practice/DivisibleSumPairs.kt)
