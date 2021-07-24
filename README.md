@@ -489,3 +489,6 @@
 
 - [Game of Stones](https://www.hackerrank.com/challenges/game-of-stones-1/problem)
   - [Code](src/hackerrank/practice/GameOfStone.kt)
+  
+- [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem)
+  - [Code](src/hackerrank/practice/BillDivision.kt)
