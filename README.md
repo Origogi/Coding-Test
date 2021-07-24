@@ -486,3 +486,6 @@
 
 - [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)
   - [Code](src/hackerrank/practice/MigratoryBirds.kt)
+
+- [Game of Stones](https://www.hackerrank.com/challenges/game-of-stones-1/problem)
+  - [Code](src/hackerrank/practice/GameOfStone.kt)
