@@ -504,3 +504,6 @@
 
 - [Cut the Tree](https://www.hackerrank.com/challenges/cut-the-tree/problem)
   - [Code](src/hackerrank/practice/CutTheTree.kt)
+
+- [KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard/problem)
+  - [Code](src/hackerrank/practice/KnightLOnAChessboard.kt)
