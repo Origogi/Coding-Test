@@ -501,3 +501,6 @@
 
 - [Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem)
   - [Code](src/hackerrank/practice/MaximizingXOR.kt)
+
+- [Cut the Tree](https://www.hackerrank.com/challenges/cut-the-tree/problem)
+  - [Code](src/hackerrank/practice/CutTheTree.kt)
