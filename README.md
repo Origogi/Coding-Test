@@ -498,3 +498,6 @@
 
 - [Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem)
   - [Code](src/hackerrank/practice/MaximumPerimeterTriangle.kt)
+
+- [Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem)
+  - [Code](src/hackerrank/practice/MaximizingXOR.kt)
