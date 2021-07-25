@@ -495,3 +495,6 @@
 
 - [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)
   - [Code](src/hackerrank/practice/SherlockAndAnagrams.java)
+
+- [Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem)
+  - [Code](src/hackerrank/practice/MaximumPerimeterTriangle.kt)
