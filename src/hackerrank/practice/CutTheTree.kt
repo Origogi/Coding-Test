@@ -26,7 +26,7 @@ fun main(args: Array<String>) {
 
 fun cutTheTree(data: Array<Int>, edges: Array<Array<Int>>): Int {
 
-    totalSum = data.sum()
+    val totalSum = data.sum()
     var ans = totalSum
 
     val prefixSum = Array(data.size) { 0 }
@@ -34,12 +34,17 @@ fun cutTheTree(data: Array<Int>, edges: Array<Array<Int>>): Int {
 
     prefixSum(1, visited, prefixSum, data, edges)
 
+    for (a in prefixSum) {
+        val left = a
+        val right = totalSum - left;
+        ans = Math.min(Math.abs(left - right), ans)
+    }
+    return ans
 
-    return minValue
+
 }
 
-var minValue = Integer.MAX_VALUE
-var totalSum = 0
+
 
 fun prefixSum(
     currentV: Int, visited: Array<Boolean>,
@@ -71,10 +76,6 @@ fun prefixSum(
         prefixSum[currentV - 1] = sum
 
     }
-
-    val left = prefixSum[currentV - 1]
-    val right = totalSum - left
-    minValue = Math.min(Math.abs(left - right), minValue)
 
     return prefixSum[currentV - 1]
 }

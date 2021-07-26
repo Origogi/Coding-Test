@@ -510,3 +510,6 @@
 
 - [Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs/problem)
   - [Code](src/hackerrank/practice/BeautifulPairs.java)
+
+- [Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem)
+  - [Code](src/hackerrank/practice/SumVsXOR.kt)
