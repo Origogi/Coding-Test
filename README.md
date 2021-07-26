@@ -507,3 +507,6 @@
 
 - [KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard/problem)
   - [Code](src/hackerrank/practice/KnightLOnAChessboard.kt)
+
+- [Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs/problem)
+  - [Code](src/hackerrank/practice/BeautifulPairs.java)
