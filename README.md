@@ -513,3 +513,6 @@
 
 - [Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem)
   - [Code](src/hackerrank/practice/SumVsXOR.kt)
+
+- [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem)
+  - [Code](src/hackerrank/practice/FormingMagicSquare.kt)
