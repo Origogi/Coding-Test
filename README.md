@@ -522,3 +522,6 @@
 
 - [Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)
   - [Code](src/hackerrank/practice/SherlockAndTheBeast.kt)
+
+- [Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays/problem)
+  - [Code](src/hackerrank/practice/PermutingTwoArrays.kt)
