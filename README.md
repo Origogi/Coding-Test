@@ -525,3 +525,6 @@
 
 - [Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays/problem)
   - [Code](src/hackerrank/practice/PermutingTwoArrays.kt)
+
+- [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss/problem)
+  - [Code](src/hackerrank/practice/MinimumLoss.kt)
