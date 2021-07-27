@@ -516,3 +516,9 @@
 
 - [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem)
   - [Code](src/hackerrank/practice/FormingMagicSquare.kt)
+
+- [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man/problem)
+  - [Code](src/hackerrank/practice/BomberMan.kt)
+
+- [Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)
+  - [Code](src/hackerrank/practice/SherlockAndTheBeast.kt)
