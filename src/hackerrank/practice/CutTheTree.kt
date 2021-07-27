@@ -4,6 +4,7 @@ package hackerrank.practice
 
 import java.util.*
 
+
 fun main(args: Array<String>) {
     val sc = Scanner(System.`in`)
 
@@ -18,64 +19,65 @@ fun main(args: Array<String>) {
         arrayOf(sc.nextInt(), sc.nextInt())
     }
 
+
+    val treeSum = Array(n - 1) {
+        0
+    }
     val result = cutTheTree(data, edges)
 
     println(result)
 }
 
-
 fun cutTheTree(data: Array<Int>, edges: Array<Array<Int>>): Int {
 
     val totalSum = data.sum()
+
+    val treeMap = mutableMapOf<Int, MutableList<Int>>()
+    val prefixSum = Array(data.size) {
+        0
+    }
+
+    for (edge in edges) {
+
+        for (i in 0..1) {
+            val list = treeMap.getOrDefault(edge[i], mutableListOf())
+            list.add(edge[if (i == 0) 1 else 0])
+            treeMap[edge[i]] = list
+        }
+    }
+
+    prefixSum(1, Array(data.size) { false }, data, treeMap, prefixSum)
+
     var ans = totalSum
 
-    val prefixSum = Array(data.size) { 0 }
-    val visited = Array(data.size) { false }
-
-    prefixSum(1, visited, prefixSum, data, edges)
-
-    for (a in prefixSum) {
-        val left = a
-        val right = totalSum - left;
+    for (p in prefixSum) {
+        val left = p
+        val right = totalSum - left
         ans = Math.min(Math.abs(left - right), ans)
+
     }
     return ans
-
-
 }
 
 
-
 fun prefixSum(
-    currentV: Int, visited: Array<Boolean>,
-    prefixSum: Array<Int>, data: Array<Int>, edges: Array<Array<Int>>
+    currentV: Int, visited: Array<Boolean>, data: Array<Int>, edges: Map<Int, List<Int>>, prefixSum: Array<Int>
 ): Int {
 
     visited[currentV - 1] = true
 
     var sum = data[currentV - 1]
 
-    if (prefixSum[currentV - 1] == 0) {
-        for (i in edges.indices) {
-            val nextV = when (currentV) {
-                edges[i][0] -> {
-                    edges[i][1]
-                }
-                edges[i][1] -> {
-                    edges[i][0]
-                }
-                else -> {
-                    -1
-                }
-            }
+    val nextList = edges[currentV]
 
-            if (nextV != -1 && !visited[nextV - 1]) {
-                sum += prefixSum(nextV, visited, prefixSum, data, edges)
+    if (nextList != null) {
+        for (nextV in nextList) {
+            if (!visited[nextV - 1]) {
+                sum += prefixSum(nextV, visited, data, edges, prefixSum)
             }
         }
-        prefixSum[currentV - 1] = sum
-
     }
 
-    return prefixSum[currentV - 1]
+    prefixSum[currentV - 1] = sum
+    return sum
 }
