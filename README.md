@@ -528,3 +528,6 @@
 
 - [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss/problem)
   - [Code](src/hackerrank/practice/MinimumLoss.kt)
+
+- [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)
+  - [Code](src/hackerrank/practice/LonelyInteger.kt)
