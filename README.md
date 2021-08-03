@@ -531,3 +531,6 @@
 
 - [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)
   - [Code](src/hackerrank/practice/LonelyInteger.kt)
+
+- [Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem)
+  - [Code](src/hackerrank/practice/PriyankaAndToys.kt)

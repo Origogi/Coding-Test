@@ -6,10 +6,10 @@ package hackerrank.nexon
 //    }
 //
 fun countOptions(people: Int, group: Int): Long {
-    return findGroup(1, people, group, /*mutableListOf()*/)
+    return findGroup(1, people, group /*mutableListOf()*/)
 }
 
-fun findGroup(base: Int, people: Int, remainGroup: Int, /*list: List<Int>*/): Long {
+fun findGroup(base: Int, people: Int, remainGroup: Int /*list: List<Int>*/): Long {
     if (remainGroup == 1) {
         return if (people >= base) {
 //            println(list.toMutableList().apply { add(people) })
@@ -24,12 +24,11 @@ fun findGroup(base: Int, people: Int, remainGroup: Int, /*list: List<Int>*/): Lo
     for (i in base..people) {
         val remainPeople = people - i
 
-        if (remainPeople > 0) {
 //            val nextList = list.toMutableList().apply {
 //                add(i)
 //            }
-            ans += findGroup(i, remainPeople, remainGroup - 1,/* nextList*/)
-        }
+        ans += findGroup(i, remainPeople, remainGroup - 1/* nextList*/)
+
     }
     return ans
 
