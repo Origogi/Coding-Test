@@ -534,3 +534,6 @@
 
 - [Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem)
   - [Code](src/hackerrank/practice/PriyankaAndToys.kt)
+
+- [Connected Cells in a Grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid/problem)
+  - [Code](src/hackerrank/practice/ConnectedCellsInGrid.java)
