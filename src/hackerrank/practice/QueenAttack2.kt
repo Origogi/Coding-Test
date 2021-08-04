@@ -25,7 +25,7 @@ fun queensAttack(n: Int, k: Int, r_q: Int, c_q: Int, obstacles: Array<Array<Int>
 
         while (currentX in 0 until n
             && currentY in 0 until n
-            && !obstaclesSet.contains(makeKey(currentX, currentY))
+            && makeKey(currentX, currentY) !in obstaclesSet
         ) {
             flagSet.add(Pair(currentX, currentY))
             currentX += moveX[it]
