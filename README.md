@@ -541,3 +541,5 @@
 - [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2)
   - [Code](src/hackerrank/practice/QueenAttack2.kt)
   
+- [Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation/problem)
+  - [Code](src/hackerrank/practice/LargestPermutation.kt)
