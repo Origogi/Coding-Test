@@ -546,3 +546,6 @@
 
 - [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk/problem)
   - [Code](src/hackerrank/practice/MarcsCakewalk.kt)
+
+- [Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders/problem)
+  - [Code](src/hackerrank/practice/JimAndTheOrders.kt)
