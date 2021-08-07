@@ -6,18 +6,19 @@ fun commonSubstring(a: Array<String>, b: Array<String>): Unit {
     }
 }
 
-fun check(strA : String, strB : String) {
+fun check(strA: String, strB: String) {
     val setA = strA.toHashSet()
     val setB = strB.toHashSet()
 
-    for (e in setA) {
-        if (setB.contains(e)) {
-            println("YES")
-            return
-        }
-    }
-    println("NO")
+    val result = setA.find {
+        setB.contains(it)
+    }?.let {
+        "YES"
+    } ?: "NO"
+
+    println(result)
 }
 
-class Test5 {
+fun main() {
+    commonSubstring(arrayOf("abc"), arrayOf("efg"))
 }
