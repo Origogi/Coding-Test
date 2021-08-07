@@ -549,3 +549,9 @@
 
 - [Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders/problem)
   - [Code](src/hackerrank/practice/JimAndTheOrders.kt)
+  
+## LeetCode
+
+### Array
+
+[Remove Duplicates from Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/)
