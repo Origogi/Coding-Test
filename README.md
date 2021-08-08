@@ -554,4 +554,11 @@
 
 ### Array
 
-[Remove Duplicates from Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/)
+- [Remove Duplicates from Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/)
+  - [Code](src/leetcode/array/RemoveDuplicatesFromSortedArray.kt)
+
+- [Contains Duplicate](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/)
+  - [Code](src/leetcode/array/ContainsDuplicate.kt)
+
+- [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)
+  - [Code](src/leetcode/array/SingleNumber.kt)
