@@ -21,6 +21,7 @@ fun reverse(s: Int, e: Int, nums: IntArray) {
 
         start++
         end--
+
     }
 
 }

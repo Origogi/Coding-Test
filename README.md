@@ -565,3 +565,6 @@
   
 - [Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/)
   - [Code](src/leetcode/array/RotateArray.kt)
+
+- [Plus One](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/)
+  - [Code](src/leetcode/array/PlusOne.kt)
