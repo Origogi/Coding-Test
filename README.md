@@ -571,3 +571,6 @@
 
 - [Move Zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/)
   - [Code](src/leetcode/array/MoveZeros.kt)
+
+- [Two Sum](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/)
+  - [Code](src/leetcode/array/TwoSum.kt)
