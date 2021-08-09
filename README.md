@@ -568,3 +568,6 @@
 
 - [Plus One](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/)
   - [Code](src/leetcode/array/PlusOne.kt)
+
+- [Move Zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/)
+  - [Code](src/leetcode/array/MoveZeros.kt)
