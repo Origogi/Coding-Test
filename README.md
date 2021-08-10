@@ -574,3 +574,6 @@
 
 - [Two Sum](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/)
   - [Code](src/leetcode/array/TwoSum.kt)
+  
+- [Valid Sudoku](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/769/)
+  - [Code](src/leetcode/array/ValidSudoku.kt)
