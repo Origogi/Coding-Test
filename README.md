@@ -537,7 +537,7 @@
 
 - [Connected Cells in a Grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid/problem)
   - [Code](src/hackerrank/practice/ConnectedCellsInGrid.java)
-
+  
 - [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2)
   - [Code](src/hackerrank/practice/QueenAttack2.kt)
   
@@ -577,3 +577,8 @@
   
 - [Valid Sudoku](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/769/)
   - [Code](src/leetcode/array/ValidSudoku.kt)
+  
+### Linked List
+
+- [Delete Node in a Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/553/)
+  - [Code](src/leetcode/linkedlist/DeleteNodeInALinkedList.kt)
