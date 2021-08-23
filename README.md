@@ -591,3 +591,8 @@
   
 - [Linked List Cycle](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/773/)
   - [Code](src/leetcode/linkedlist/LinkedListCycle.kt)
+  
+### Tree
+
+- [Maximum Depth of Binary Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/555/)
+  - [Code](src/leetcode/tree/MaximumDepthOfBinary%20Tree.kt)
