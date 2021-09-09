@@ -597,6 +597,10 @@
 - [Reverse String](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/879/)
   - [Code](src/leetcode/string/ReverseString.kt)
   
+- [Reverse Integer](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/880/)
+  - [Code](src/leetcode/string/ReverseInteger.kt)
+
+
 ### Tree
 
 - [Maximum Depth of Binary Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/555/)
