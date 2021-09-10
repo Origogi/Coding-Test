@@ -13,4 +13,6 @@ fun firstUniqChar(s: String): Int {
     } else {
         s.indexOf(target)
     }
+
+
 }

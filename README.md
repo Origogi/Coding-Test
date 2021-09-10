@@ -603,7 +603,9 @@
 - [First Unique Character in a String](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/881/)
   - [Code](src/leetcode/string/FirstUniqueCharacterinAString.kt)
 
-
+- [Anagram](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/882/)
+  - [Code](src/leetcode/string/ValidAnagram.kt)
+  
 ### Tree
 
 - [Maximum Depth of Binary Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/555/)
