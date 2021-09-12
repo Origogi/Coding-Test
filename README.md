@@ -606,6 +606,9 @@
 - [Anagram](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/882/)
   - [Code](src/leetcode/string/ValidAnagram.kt)
   
+- [String to Integer (atoi)](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/884/)
+  - [Code](src/leetcode/string/StringtoInteger.kt)
+  
 ### Tree
 
 - [Maximum Depth of Binary Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/555/)
