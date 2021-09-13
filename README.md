@@ -608,6 +608,9 @@
   
 - [String to Integer (atoi)](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/884/)
   - [Code](src/leetcode/string/StringtoInteger.kt)
+
+- [Implement strStr()](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/885/)
+  - [Code](src/leetcode/string/StrStr.kt)
   
 ### Tree
 
