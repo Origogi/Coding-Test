@@ -611,7 +611,10 @@
 
 - [Implement strStr()](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/885/)
   - [Code](src/leetcode/string/StrStr.kt)
-  
+
+- [LongestCommonPrefix](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/886/)
+  - [Code](src/leetcode/string/LongestCommonPrefix.kt)
+
 ### Tree
 
 - [Maximum Depth of Binary Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/555/)
