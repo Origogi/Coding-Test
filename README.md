@@ -591,7 +591,10 @@
   
 - [Linked List Cycle](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/773/)
   - [Code](src/leetcode/linkedlist/LinkedListCycle.kt)
-  
+
+- [Palindrome Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/772/)
+  - [Code](src/leetcode/linkedlist/PalindromeLinkedList.kt)
+
 ### String
 
 - [Reverse String](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/879/)
