@@ -622,3 +622,6 @@
 
 - [Maximum Depth of Binary Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/555/)
   - [Code](src/leetcode/tree/MaximumDepthOfBinary%20Tree.kt)
+
+- [Symmetric Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/627/)
+  - [Code](src/leetcode/tree/SymmetricTree.kt)
