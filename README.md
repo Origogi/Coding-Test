@@ -582,7 +582,10 @@
 
 - [Delete Node in a Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/553/)
   - [Code](src/leetcode/linkedlist/DeleteNodeInALinkedList.kt)
-  
+
+- [Remove Nth Node From End of List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/603/)
+  - [Code](src/leetcode/linkedlist/RemoveNthNode.kt)
+
 - [Reverse Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/560/)
   - [Code](src/leetcode/linkedlist/ReverseLinkedList.kt)
   
