@@ -2,7 +2,7 @@ package leetcode.tree
 
 import java.util.*
 
-class Solution {
+private class Solution {
     fun levelOrder(root: TreeNode?): List<List<Int>> {
 
         val result : MutableList<List<Int>> = mutableListOf()
