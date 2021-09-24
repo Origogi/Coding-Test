@@ -628,3 +628,6 @@
 
 - [Symmetric Tree](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/627/)
   - [Code](src/leetcode/tree/SymmetricTree.kt)
+
+- [Binary Tree Level Order Traversal](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/628/)
+  - [Code](src/leetcode/tree/BinaryTreeLevelOrderTraversal.kt)
