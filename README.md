@@ -642,4 +642,7 @@
 
 - [Best Time to Buy and Sell Stock](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/572/)
   - [Code](src/leetcode/dp/ClimbingStairs.kt)
+
+- [Maximum Subarray](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/566/)
+  - [Code](src/leetcode/dp/MaximumSubarray.kt)
   
