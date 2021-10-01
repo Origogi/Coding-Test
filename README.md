@@ -645,4 +645,6 @@
 
 - [Maximum Subarray](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/566/)
   - [Code](src/leetcode/dp/MaximumSubarray.kt)
-  
+
+- [House Robber](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/576/)
+  - [Code](src/leetcode/dp/HouseRobber.kt)
