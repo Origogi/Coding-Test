@@ -648,3 +648,8 @@
 
 - [House Robber](https://leetcode.com/explore/interview/card/top-interview-questions-easy/97/dynamic-programming/576/)
   - [Code](src/leetcode/dp/HouseRobber.kt)
+  
+### Exercise
+
+- [Palindrome Number](https://leetcode.com/problems/palindrome-number/) `#Easy`
+  - [Code](src/leetcode/exercise/PalindromeNumber.kt)
