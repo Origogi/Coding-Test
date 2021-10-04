@@ -653,3 +653,6 @@
 
 - [Palindrome Number](https://leetcode.com/problems/palindrome-number/) `#Easy`
   - [Code](src/leetcode/exercise/PalindromeNumber.kt)
+  
+- [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) `#Mideum`
+  - [Code](src/leetcode/exercise/ZigZag.kt)
