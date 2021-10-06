@@ -656,3 +656,6 @@
   
 - [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) `#Mideum`
   - [Code](src/leetcode/exercise/ZigZag.kt)
+
+- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) `#Easy`
+  - [Code](src/leetcode/exercise/ValidParentheses.kt)

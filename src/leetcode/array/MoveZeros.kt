@@ -13,5 +13,4 @@ fun moveZeroes(nums: IntArray): Unit {
     for (i in index until nums.size) {
         nums[i] = 0
     }
-
 }
