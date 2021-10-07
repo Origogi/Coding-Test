@@ -654,8 +654,11 @@
 - [Palindrome Number](https://leetcode.com/problems/palindrome-number/) `#Easy`
   - [Code](src/leetcode/exercise/PalindromeNumber.kt)
   
-- [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) `#Mideum`
+- [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) `#Medium`
   - [Code](src/leetcode/exercise/ZigZag.kt)
 
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) `#Easy`
   - [Code](src/leetcode/exercise/ValidParentheses.kt)
+
+- [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) `#Medium`
+  - [Code](src/leetcode/exercise/GenerateParentheses.kt)
