@@ -662,3 +662,6 @@
 
 - [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) `#Medium`
   - [Code](src/leetcode/exercise/GenerateParentheses.kt)
+  
+- [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) `#Easy`
+  - [Code](src/leetcode/exercise/RemoveDuplicates.kt)
