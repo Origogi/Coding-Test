@@ -665,3 +665,6 @@
   
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) `#Easy`
   - [Code](src/leetcode/exercise/RemoveDuplicates.kt)
+
+- [Remove Element](https://leetcode.com/problems/remove-element/) `#Easy`
+  - [Code](src/leetcode/exercise/RemoveElement.kt)
