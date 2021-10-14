@@ -668,3 +668,6 @@
 
 - [Remove Element](https://leetcode.com/problems/remove-element/) `#Easy`
   - [Code](src/leetcode/exercise/RemoveElement.kt)
+
+- [Permutations](https://leetcode.com/problems/permutations/) `#Medium`
+  - [Code](src/leetcode/exercise/Permutations.kt)

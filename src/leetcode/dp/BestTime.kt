@@ -18,3 +18,11 @@ fun maxProfit(prices: IntArray): Int {
     return maxProfit
 
 }
+
+fun main() {
+    `print Hello world`()
+}
+
+fun `print Hello world` () {
+    println("Hello world")
+}
