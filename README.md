@@ -671,3 +671,6 @@
 
 - [Permutations](https://leetcode.com/problems/permutations/) `#Medium`
   - [Code](src/leetcode/exercise/Permutations.kt)
+
+- [Combination Sum](https://leetcode.com/problems/combination-sum/) `#Medium`
+  - [Code](src/leetcode/exercise/CombinationSum.kt)
