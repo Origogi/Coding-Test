@@ -674,3 +674,6 @@
 
 - [Combination Sum](https://leetcode.com/problems/combination-sum/) `#Medium`
   - [Code](src/leetcode/exercise/CombinationSum.kt)
+
+- [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) `#Medium`
+  - [Code](src/leetcode/exercise/MinimumPathSum.kt)
