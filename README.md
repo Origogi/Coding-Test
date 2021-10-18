@@ -677,3 +677,6 @@
 
 - [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) `#Medium`
   - [Code](src/leetcode/exercise/MinimumPathSum.kt)
+
+- [Search Insert Position](https://leetcode.com/problems/search-insert-position/) `#Easy`
+  - [Code](src/leetcode/exercise/SearchInsertPosition.kt)
